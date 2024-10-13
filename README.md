@@ -6,6 +6,7 @@ Python <br/>
 C++ & PHP 
 # Photo : #
 
-![BiometricCheckIn](https://github.com/user-attachments/assets/c_crop,g_auto,h_250,w_200/54cbc9a7-e4fc-4bf8-979b-7ddc1d1c05e6)
+![BiometricCheckIn (1)](https://github.com/user-attachments/assets/3c177b18-aea2-4a0f-b285-c4cce5a3d738)
+
 
 
